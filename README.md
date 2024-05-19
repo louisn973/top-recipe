@@ -27,7 +27,10 @@ Iteration 3
 
     Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
 
+Iteration 4 
 
+    Add two more recipes with identical page structures to the recipe page you’ve already created.
 
+    Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
 
 
