@@ -1,20 +1,21 @@
 instruction for the recipe project 
 
 Iteration 1 
-    in top-recipe create index file
-    make the boilerpltate 
-    h1 Odin Recipes
+
+    Within the odin-recipes directory, create an index.html file.
+    
+    Fill it out with the usual boilerplate HTML and add an h1 heading “Odin Recipes” to the body.
 
 
 Iteration 2
-    new directory called recipes in top-recipe
 
-    in recipes make html for file for different recipes
+    Create a new directory within the odin-recipes directory and name it recipes.
+    
+    Create a new HTML file within the recipes directory and name it after the recipe it will contain. For example lasagna.html. You can use the name of your favorite dish or, if you need some inspiration, you can find a recipe to use at Allrecipes.
 
-    put a h1 heading with recipe name for content
+    For now, just include an h1 heading with the recipe’s name as its content.
 
-    put a clickable link of the recipe in the index file with the name of the recipe
-
+    Back in the index.html file, add a link to the recipe page you just created. Example: Under the <h1>Odin Recipes</h1> heading, write out the link like so: <a href="recipes/recipename.html">Recipe Title</a>. The text of the link should again be the recipe name.
 
 Iteration 3 
 
@@ -25,3 +26,8 @@ Iteration 3
     Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
 
     Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
+
+
+
+
+
